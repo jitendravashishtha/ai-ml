@@ -24,3 +24,5 @@ Shows how to use the OpenAI API to generate text embeddings.
 ##### Notes: 
 - Replace the Hugging Face and OpenAI API keys with your own credentials.
 - The OpenAI embedding example is commented out; uncomment and configure as needed.
+
+https://tiktokenizer.vercel.app/?model=google%2Fgemma-7b 
